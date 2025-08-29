@@ -1,6 +1,6 @@
 ---
 title: "Exam"
-passing_percentage: 70
+pass_percentage: 70
 questions:
     - id: "q1"
       text: "Which of the following best describes how logs contribute to observability in complex systems?"
